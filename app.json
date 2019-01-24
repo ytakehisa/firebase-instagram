@@ -24,6 +24,11 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "primaryColor": "#000",
+    "extra": {
+      "backgroundColor": "#fafafa",
+      "textColor": "#454545"
     }
   }
 }
